@@ -1,0 +1,1103 @@
+[
+  {
+    "slug": "sea-world-cruises-nye-cruise",
+    "name": "Sea World Cruises New Year's Eve Cruise",
+    "venue": "Sea World Cruises, Surfers Paradise Ferry Wharf",
+    "suburb": "Surfers Paradise",
+    "area": "On the Broadwater",
+    "categories": [
+      "cruise",
+      "broadwater",
+      "party"
+    ],
+    "price_from": 269,
+    "price_text": "$269 per adult (published 2026 price)",
+    "time": "Board 8:15pm, cruise 8:30pm – 12:30am",
+    "includes": [
+      "4-hour beverage package",
+      "Glass of Chandon on arrival",
+      "Gourmet canapés through the night",
+      "Live music",
+      "Open-air top deck for the midnight fireworks"
+    ],
+    "fireworks": "Midnight",
+    "age": "18+",
+    "url": "https://seaworldcruises.com.au/specials/new-years-cruise/",
+    "featured": true,
+    "blurb": "A four-hour adults-only cruise past the Surfers Paradise skyline and through the canals, finishing on the Broadwater for the midnight fireworks."
+  },
+  {
+    "slug": "spirit-of-gold-coast-nye-cruise",
+    "name": "Spirit of Gold Coast NYE Cruises",
+    "venue": "Spirit of Gold Coast, Aqua Adventure Centre, 95 Marine Parade",
+    "suburb": "Southport",
+    "area": "On the Broadwater",
+    "categories": [
+      "cruise",
+      "broadwater",
+      "family",
+      "budget"
+    ],
+    "price_from": 169,
+    "price_text": "Family cruise $169 adult / $89 child (4–14); midnight cruise $179, 18+ (2025 prices, TBC)",
+    "time": "Family cruise 6:00pm – 8:30pm; midnight cruise 9:30pm – 12:30am",
+    "includes": [
+      "Drink on arrival",
+      "Cocktail-style dining and canapés",
+      "Live music",
+      "Fully licensed bar",
+      "Free car parking",
+      "Upper and lower deck viewing"
+    ],
+    "fireworks": "8pm (family cruise) or midnight",
+    "age": "All ages (family cruise); 18+ (midnight cruise)",
+    "url": "https://spiritofgoldcoastcruises.com.au/all-cruises/new-years-eve-cruise/",
+    "featured": true,
+    "blurb": "A 24-metre catamaran with two NYE sailings: an early family cruise for the 8pm fireworks and an adults-only cruise for midnight."
+  },
+  {
+    "slug": "yot-club-nye-white-party",
+    "name": "YOT Club NYE White Party Cruise",
+    "venue": "YOT Club, Seaworld Drive",
+    "suburb": "Main Beach",
+    "area": "On the Broadwater",
+    "categories": [
+      "cruise",
+      "party",
+      "broadwater"
+    ],
+    "price_from": 300,
+    "price_text": "Ocean Deck $299.95, Upper Deck $399.95; VIP booths for 10 from $2,500 (2025 prices, TBC)",
+    "time": "Board 7:30pm, 8:00pm – 12:30am",
+    "includes": [
+      "Free-flowing beverage package",
+      "Roaming canapés",
+      "Live entertainment",
+      "White Party dress code",
+      "Midnight fireworks from the water"
+    ],
+    "fireworks": "Midnight",
+    "age": "18+",
+    "url": "https://yotclub.com.au/",
+    "featured": false,
+    "blurb": "A dress-in-white party boat on the Gold Coast waterways. The 2025 cruise sold out, and a 2026 White Party is already flagged on the YOT Club site."
+  },
+  {
+    "slug": "gold-coast-party-cruise-nye",
+    "name": "Gold Coast Party Cruise New Year's Eve",
+    "venue": "Gold Coast Party Cruise",
+    "suburb": "Gold Coast Broadwater",
+    "area": "On the Broadwater",
+    "categories": [
+      "cruise",
+      "party",
+      "broadwater"
+    ],
+    "price_from": null,
+    "price_text": "TBA, call 5518 8717",
+    "time": "Around 4 hours, times TBA",
+    "includes": [
+      "Welcome drinks",
+      "Finger food and canapés",
+      "DJ and live entertainment",
+      "Party games and photographers",
+      "Four decks with 360-degree views"
+    ],
+    "fireworks": "Midnight (TBC)",
+    "age": "Check with operator",
+    "url": "https://www.goldcoastpartycruise.com.au/new-years-eve/",
+    "featured": false,
+    "blurb": "A big four-level party boat for up to 300 people, cruising the Broadwater with a DJ and a 360-degree view of the fireworks."
+  },
+  {
+    "slug": "skypoint-nye",
+    "name": "New Year's Eve at SkyPoint",
+    "venue": "SkyPoint Observation Deck, Level 77, Q1 Resort",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 179,
+    "price_text": "NYE Climb from $179 (2026). 2025 Fiesta Pass was $229; full 2026 tickets TBA",
+    "time": "Evening, times TBA",
+    "includes": [
+      "NYE Climb timed for the 8pm fireworks, 270m up",
+      "Level 77 sky-high dance floor",
+      "360-degree views of the coast",
+      "2025 packages included a taco station and drinks package"
+    ],
+    "fireworks": "8pm & midnight, from above",
+    "age": "Check with venue",
+    "url": "https://www.skypoint.com.au/new-years-eve",
+    "featured": true,
+    "blurb": "The highest NYE party on the coast, on Level 77 of Q1. SkyPoint has confirmed it returns for 2026, with ticket details still to come."
+  },
+  {
+    "slug": "the-exhibitionist-bar-hota-nye",
+    "name": "New Year's Eve at The Exhibitionist Bar",
+    "venue": "The Exhibitionist Bar, HOTA, Home of the Arts",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 210,
+    "price_text": "$210pp cocktail event; VIP booth $2,100 for up to 6 (latest published price, TBC)",
+    "time": "8:00pm – 1:00am",
+    "includes": [
+      "Full food and beverage package",
+      "Spritz and caviar bump on arrival",
+      "DJ",
+      "VIP booth option with grazing table and champagne upgrade",
+      "Rooftop skyline views"
+    ],
+    "fireworks": "Skyline views (check fireworks sightline)",
+    "age": "18+",
+    "url": "https://hota.com.au/whats-on/live/event/new-years-eve-the-exhibitionist-bar",
+    "featured": false,
+    "blurb": "HOTA's rooftop bar looks back over the Surfers Paradise skyline, with an all-inclusive cocktail party and VIP booths for small groups."
+  },
+  {
+    "slug": "qt-stingray-mad-hatter-nye",
+    "name": "Stingray Mad Hatter NYE Party at QT",
+    "venue": "Stingray Lounge, QT Gold Coast, 7 Staghorn Ave",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 169,
+    "price_text": "From $169pp first release, $189pp later; $90 entry & canapés (2025 prices, TBC)",
+    "time": "7:00pm – 2:00am",
+    "includes": [
+      "5.5-hour drinks package",
+      "Tea party themed canapés",
+      "Roaming costumed performers",
+      "Resident DJ"
+    ],
+    "fireworks": "Short walk to the beach for 8pm & midnight",
+    "age": "18+",
+    "url": "https://www.qthotels.com/gold-coast/",
+    "featured": false,
+    "blurb": "QT's Mad Hatter party is one of the most popular NYE nights in Surfers, with a very long drinks package for the price."
+  },
+  {
+    "slug": "yamagen-nye-omakase",
+    "name": "Yamagen NYE Omakase",
+    "venue": "Yamagen, QT Gold Coast, 7 Staghorn Ave",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "dining",
+      "fine-dining"
+    ],
+    "price_from": 220,
+    "price_text": "$220pp (2025 price, TBC)",
+    "time": "8:00pm",
+    "includes": [
+      "Champagne on arrival",
+      "6-course chef-curated omakase",
+      "Sake, whisky and cocktail list",
+      "Entry to the Stingray dance floor after dinner"
+    ],
+    "fireworks": "Short walk to the beach for midnight",
+    "age": "18+",
+    "url": "https://www.qthotels.com/gold-coast/",
+    "featured": false,
+    "blurb": "A Japanese omakase dinner at QT that rolls straight into the Stingray party upstairs, so dinner and dancing are covered in one booking."
+  },
+  {
+    "slug": "the-island-gold-coast-nye",
+    "name": "New Year's Eve at The Island",
+    "venue": "The Island Gold Coast, 3128 Surfers Paradise Blvd",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 30,
+    "price_text": "Laneway from $30; Rooftop $189; Penthouse $229; all areas $299 (+ booking fee, 2025 prices, TBC)",
+    "time": "From 7:00pm",
+    "includes": [
+      "Choice of Island Rooftop, Island Penthouse or Laneway Lights party",
+      "4.5-hour food and drinks package (Rooftop and Penthouse)",
+      "Gourmet canapés",
+      "Live entertainment",
+      "Access-all-areas ticket option"
+    ],
+    "fireworks": "Rooftop views towards the 8pm & midnight fireworks",
+    "age": "18+",
+    "url": "https://www.theislandgoldcoast.com.au/",
+    "featured": false,
+    "blurb": "Three parties in one building, from a cheap laneway ticket to a full Penthouse package, a block back from the beach."
+  },
+  {
+    "slug": "cali-beach-club-nye",
+    "name": "Cali Beach Club NYE White Party",
+    "venue": "Cali Beach Club, 21a Elkhorn Ave",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 109,
+    "price_text": "From $109 (second release), $179 final release (2025 prices, TBC)",
+    "time": "From 7:00pm",
+    "includes": [
+      "White Party theme",
+      "Rotating DJs into the early hours",
+      "Roving performers",
+      "Cocktails",
+      "Private cabana and lounge upgrades"
+    ],
+    "fireworks": "8pm & midnight nearby",
+    "age": "18+",
+    "url": "https://www.calibeach.com.au/",
+    "featured": false,
+    "blurb": "A poolside White Party in the middle of Surfers Paradise, with DJs and cabanas, a short walk from the midnight fireworks on the beach."
+  },
+  {
+    "slug": "surfers-pavilion-nye",
+    "name": "Surfers Pavilion New Year's Eve",
+    "venue": "Surfers Pavilion, 30/34 Ferny Ave",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 139,
+    "price_text": "From $139pp first release (2025 price, TBC)",
+    "time": "From 7:00pm, open until 3:00am",
+    "includes": [
+      "4-hour premium food and drinks package",
+      "Canapés",
+      "Spirits, bubbles, wine and beer",
+      "Roving performers",
+      "Rotating DJs"
+    ],
+    "fireworks": "Nearby (short walk to the beach)",
+    "age": "18+",
+    "url": "https://www.surferspav.com.au/",
+    "featured": false,
+    "blurb": "A four-hour food and drinks package and DJs until 3am, one of the better value inclusive parties in Surfers."
+  },
+  {
+    "slug": "sandbar-surfers-paradise-nye",
+    "name": "Sandbar NYE Party",
+    "venue": "Sandbar, 52 Esplanade",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "party",
+      "beachfront",
+      "budget"
+    ],
+    "price_from": 115,
+    "price_text": "From $115 (2025 price, TBC)",
+    "time": "From 9:00pm",
+    "includes": [
+      "3-hour premium food and beverage package",
+      "Live music",
+      "Themed party",
+      "Right on the Esplanade"
+    ],
+    "fireworks": "Midnight, beachfront",
+    "age": "18+",
+    "url": "https://sandbargc.com/",
+    "featured": false,
+    "blurb": "A beachfront bar on the Esplanade, so you can see the midnight fireworks over the ocean without fighting for a spot on the sand."
+  },
+  {
+    "slug": "burleigh-pavilion-nye",
+    "name": "Burleigh Pavilion New Year's Eve",
+    "venue": "Burleigh Pavilion, 3a/43 Goodwin Terrace",
+    "suburb": "Burleigh Heads",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "party",
+      "beachfront",
+      "budget"
+    ],
+    "price_from": 180,
+    "price_text": "GA $180; VIP $299 (2025 prices, TBC)",
+    "time": "6:00pm – 2:00am",
+    "includes": [
+      "International headline DJ (A-Trak in 2025)",
+      "Supporting DJs all night",
+      "VIP: 2-hour beverage package and canapés",
+      "Beachfront deck"
+    ],
+    "fireworks": "No council display at Burleigh in 2025",
+    "age": "18+",
+    "url": "https://burleighpavilion.com/",
+    "featured": false,
+    "blurb": "The southern coast's big beachfront party, with an international DJ headliner every year. Burleigh had no council fireworks in 2025, so come for the music."
+  },
+  {
+    "slug": "haven-pool-club-nye",
+    "name": "Haven Pool Club NYE at Mondrian",
+    "venue": "Haven Pool Club, Mondrian Gold Coast, 3 First Ave",
+    "suburb": "Burleigh Heads",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "party",
+      "beachfront"
+    ],
+    "price_from": 295,
+    "price_text": "$295pp (2025 price, TBC)",
+    "time": "9:00pm – 12:30am",
+    "includes": [
+      "3.5-hour beverage package",
+      "Live hibachi stations",
+      "Endless margaritas",
+      "Multiple DJs"
+    ],
+    "fireworks": "No council display at Burleigh in 2025",
+    "age": "18+",
+    "url": "https://mondrianhotels.com/gold-coast/events/new-years-eve-at-mondrian-gold-coast/",
+    "featured": false,
+    "blurb": "An oceanfront poolside party at the Mondrian, with hibachi food stations and DJs through to the countdown."
+  },
+  {
+    "slug": "burleigh-town-hotel-nye",
+    "name": "No Scrubs NYE at Burleigh Town Hotel",
+    "venue": "Burleigh Town Hotel, Tsipura Dr",
+    "suburb": "Burleigh Heads",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 19,
+    "price_text": "$18.90 early bird to $30 final release (2025 prices, TBC)",
+    "time": "From 8:00pm",
+    "includes": [
+      "90s and early 00s themed party",
+      "Throwback DJs",
+      "Pub prices at the bar"
+    ],
+    "fireworks": "No view",
+    "age": "18+",
+    "url": "https://burleightownhotel.com.au/",
+    "featured": false,
+    "blurb": "The cheapest ticketed party on our list: a 90s and early 00s throwback night at a big local pub."
+  },
+  {
+    "slug": "miami-twilight-nye",
+    "name": "Miami Twilight NYE",
+    "venue": "Thorn Park",
+    "suburb": "Miami",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "family",
+      "free",
+      "vantage"
+    ],
+    "price_from": 0,
+    "price_text": "Free",
+    "time": "4:00pm – 8:00pm",
+    "includes": [
+      "DJ",
+      "Bubble fun",
+      "Train rides",
+      "Coastal fireworks to finish"
+    ],
+    "fireworks": "Early evening fireworks (check time)",
+    "age": "All ages",
+    "url": "https://miamitwilightnye.com.au/",
+    "featured": false,
+    "blurb": "A free early-evening family party in Miami's Thorn Park, wrapping up with fireworks in time for bed."
+  },
+  {
+    "slug": "kirra-beach-house-nye-white-party",
+    "name": "Kirra Beach House NYE White Party",
+    "venue": "Kirra Beach House, 2 Marine Parade",
+    "suburb": "Coolangatta",
+    "area": "Coolangatta & Kirra",
+    "categories": [
+      "party",
+      "beachfront",
+      "budget"
+    ],
+    "price_from": 50,
+    "price_text": "GA from $50; cocktail party $149 (2025 prices, TBC)",
+    "time": "Cocktail party from 6:00pm; GA from 8:00pm",
+    "includes": [
+      "White Party theme",
+      "DJ sets",
+      "Cocktail party: 2-hour food and drinks package and live sax",
+      "Optional cabanas",
+      "Oceanfront at Kirra"
+    ],
+    "fireworks": "9pm & midnight (Coolangatta, nearby)",
+    "age": "18+",
+    "url": "https://kirrabeachhouse.com.au/",
+    "featured": false,
+    "blurb": "A beachfront White Party at Kirra, close to the Coolangatta fireworks, with a cheap GA ticket or an earlier cocktail party."
+  },
+  {
+    "slug": "la-luna-beach-club-nye",
+    "name": "La Luna Beach Club New Year's Eve",
+    "venue": "La Luna Beach Club, 74 Seaworld Dr",
+    "suburb": "Main Beach",
+    "area": "Main Beach & The Spit",
+    "categories": [
+      "party",
+      "broadwater"
+    ],
+    "price_from": 325,
+    "price_text": "$325pp (2025 price, TBC)",
+    "time": "From 8:00pm",
+    "includes": [
+      "Cocktail on arrival",
+      "Roaming canapés and live BBQ",
+      "3-hour deluxe drinks package",
+      "Live entertainment",
+      "Midnight fireworks over the marina"
+    ],
+    "fireworks": "Midnight (private display over the marina)",
+    "age": "18+",
+    "url": "https://gennarigroup.com.au/events/la-luna-beach-club-new-years-eve-gold-coast",
+    "featured": false,
+    "blurb": "A poolside party on the Broadwater with its own midnight fireworks display over the Marina Mirage."
+  },
+  {
+    "slug": "mare-nye-dinner",
+    "name": "New Year's Eve at MĀRE",
+    "venue": "MĀRE, 74 Seaworld Dr",
+    "suburb": "Main Beach",
+    "area": "Main Beach & The Spit",
+    "categories": [
+      "dining",
+      "fine-dining",
+      "broadwater"
+    ],
+    "price_from": 440,
+    "price_text": "$440pp (2025 price, TBC)",
+    "time": "From 7:30pm",
+    "includes": [
+      "Cocktail on arrival",
+      "Chef-curated 4-course menu",
+      "3-hour drinks package",
+      "Live entertainment",
+      "Waterfront seating with fireworks views"
+    ],
+    "fireworks": "Midnight (marina fireworks)",
+    "age": "18+",
+    "url": "https://gennarigroup.com.au/events/mare-new-years-eve-gold-coast",
+    "featured": false,
+    "blurb": "Waterfront fine dining at Main Beach, with lobster ravioli and Moreton Bay bugs on the 2025 menu and the marina fireworks at midnight."
+  },
+  {
+    "slug": "sueno-rooftop-fin-de-ano",
+    "name": "Fin de Año Rooftop Party at Sueño",
+    "venue": "Sueño Rooftop, 2217 Gold Coast Hwy",
+    "suburb": "Mermaid Beach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 270,
+    "price_text": "$270pp (2025 price, TBC)",
+    "time": "From 8:30pm",
+    "includes": [
+      "Substantial roaming canapés",
+      "Premium beverage package",
+      "DJs",
+      "Roam between Norté and Sueño from 10pm"
+    ],
+    "fireworks": "Rooftop (check sightline)",
+    "age": "18+",
+    "url": "https://www.norte.restaurant/sueno-home",
+    "featured": false,
+    "blurb": "A Latin-inspired rooftop party above Norté in Mermaid Beach, with both venues opening up to each other late in the night."
+  },
+  {
+    "slug": "norte-candlelit-nye-dinner",
+    "name": "Candlelit NYE Dinner at Norté",
+    "venue": "Norté, 2217 Gold Coast Hwy",
+    "suburb": "Mermaid Beach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "dining",
+      "fine-dining"
+    ],
+    "price_from": 330,
+    "price_text": "$330pp (2025 price, TBC)",
+    "time": "From 8:30pm",
+    "includes": [
+      "9-course set menu",
+      "4-hour premium beverage package with paired wines",
+      "Candlelit dining room",
+      "Access to Sueño rooftop from 10pm"
+    ],
+    "fireworks": "No direct view",
+    "age": "18+",
+    "url": "https://www.norte.restaurant/",
+    "featured": false,
+    "blurb": "A moody nine-course dinner with matched wines, then up to the Sueño rooftop for the countdown."
+  },
+  {
+    "slug": "juju-mermaid-beach-nye",
+    "name": "JUJU Mermaid Beach New Year's Eve",
+    "venue": "JUJU Restaurant & Rooftop Bar",
+    "suburb": "Mermaid Beach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "party",
+      "rooftop",
+      "dining",
+      "budget"
+    ],
+    "price_from": 49,
+    "price_text": "GA $49; restaurant set menu $99; rooftop package $229 (2025 prices, TBC)",
+    "time": "Seatings 6:00pm & 8:30pm; rooftop sunset to late",
+    "includes": [
+      "Champagne on arrival (rooftop package)",
+      "Premium drinks and canapés",
+      "DJ",
+      "Restaurant set menu option"
+    ],
+    "fireworks": "Rooftop (check sightline)",
+    "age": "18+",
+    "url": "https://www.jujumermaidbeach.com.au/",
+    "featured": false,
+    "blurb": "A multi-level restaurant and rooftop bar with something at every price, from a $49 GA ticket to a full rooftop package."
+  },
+  {
+    "slug": "draculas-nye",
+    "name": "New Year's Eve at Dracula's",
+    "venue": "Dracula's Cabaret Restaurant, Hooker Blvd",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "party",
+      "dining",
+      "budget"
+    ],
+    "price_from": 199,
+    "price_text": "$199 per adult (2025 price, TBC)",
+    "time": "Evening, until the early hours",
+    "includes": [
+      "Ghost Train ride",
+      "3-course dinner",
+      "Cabaret variety show",
+      "Midnight sparkling toast in a souvenir flute",
+      "Live band and DJ after the show"
+    ],
+    "fireworks": "No view",
+    "age": "18+ (adults only)",
+    "url": "https://draculas.com.au/about/news/nye-at-draculasgoldcoast",
+    "featured": false,
+    "blurb": "A Gold Coast institution: dinner, a comedy and cabaret show and a midnight toast, then dancing until late."
+  },
+  {
+    "slug": "the-star-garden-kitchen-nye",
+    "name": "NYE at The Garden Kitchen & Bar, The Star",
+    "venue": "The Garden Kitchen & Bar, The Star Gold Coast, 1 Casino Dr",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "dining"
+    ],
+    "price_from": 229,
+    "price_text": "$229pp (2025 price, TBC)",
+    "time": "Seatings 5:00pm or 8:00pm",
+    "includes": [
+      "3-hour set menu",
+      "Beverage package",
+      "Entertainment",
+      "Access to the festivities on The Lawn"
+    ],
+    "fireworks": "Midnight (The Star display)",
+    "age": "Check with venue",
+    "url": "https://www.star.com.au/goldcoast/whats-on/new-years-eve",
+    "featured": false,
+    "blurb": "A set menu and drinks package at The Star, plus access to the party on The Lawn, close to the Broadbeach fireworks."
+  },
+  {
+    "slug": "nineteen-at-the-star-nye",
+    "name": "Nineteen at The Star NYE Dinner",
+    "venue": "Nineteen at The Star, Level 19, The Darling",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "dining",
+      "fine-dining",
+      "rooftop"
+    ],
+    "price_from": 220,
+    "price_text": "$220pp (5:30pm) / $280pp (8:30pm) (2025 prices, TBC)",
+    "time": "Seatings 5:30pm or 8:30pm",
+    "includes": [
+      "4-course dinner",
+      "Rooftop restaurant, 19 floors up",
+      "Panoramic coast and hinterland views"
+    ],
+    "fireworks": "8pm & midnight (elevated views)",
+    "age": "Check with venue",
+    "url": "https://www.star.com.au/goldcoast/whats-on/new-years-eve",
+    "featured": false,
+    "blurb": "A four-course dinner on The Star's rooftop, with the early sitting timed for the 8pm fireworks and the late sitting for midnight."
+  },
+  {
+    "slug": "cucina-vivo-nye",
+    "name": "Cucina Vivo NYE at The Star",
+    "venue": "Cucina Vivo, Lobby Level, The Star Gold Coast",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "dining",
+      "party",
+      "budget"
+    ],
+    "price_from": 199,
+    "price_text": "$199 per adult (2025 price, TBC)",
+    "time": "From 8:30pm",
+    "includes": [
+      "3-course Italian menu",
+      "3.5-hour drinks package",
+      "Live music and local DJ",
+      "Poolside fireworks views"
+    ],
+    "fireworks": "Midnight (poolside)",
+    "age": "Check with venue",
+    "url": "https://www.star.com.au/goldcoast/restaurants/cucina-vivo",
+    "featured": false,
+    "blurb": "Italian dinner, a long drinks package and a DJ by the pool at The Star, with the midnight fireworks overhead."
+  },
+  {
+    "slug": "the-star-nye-masquerade-ball",
+    "name": "NYE Masquerade Ball at The Star",
+    "venue": "The Star Event Centre, The Star Gold Coast",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "party",
+      "dining"
+    ],
+    "price_from": null,
+    "price_text": "TBA (2025 tickets sold through The Star)",
+    "time": "7:00pm – 12:30am",
+    "includes": [
+      "Canapés on arrival",
+      "3-course dinner",
+      "4-hour beverage package",
+      "Live entertainment",
+      "Masks and dress to impress"
+    ],
+    "fireworks": "Midnight (The Star display)",
+    "age": "18+",
+    "url": "https://www.star.com.au/goldcoast/whats-on/new-years-eve",
+    "featured": false,
+    "blurb": "The Star's big black-tie style ball with dinner, drinks and a show. 2026 pricing has not been published yet."
+  },
+  {
+    "slug": "meltemi-broadbeach-nye",
+    "name": "Meltemi NYE: Sunset on the Aegean & Aegean After Dark",
+    "venue": "Meltemi Mediterrania",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "dining",
+      "family",
+      "budget"
+    ],
+    "price_from": 99,
+    "price_text": "Early $99; late $169 (2025 prices, TBC)",
+    "time": "Early 4:30pm – 7:00pm; late from 7:30pm",
+    "includes": [
+      "Mediterranean banquet",
+      "Spritz on arrival",
+      "Live music",
+      "Kids menu available"
+    ],
+    "fireworks": "8pm & midnight nearby (Kurrawa Park)",
+    "age": "All ages",
+    "url": "https://meltemi.com.au/",
+    "featured": false,
+    "blurb": "A Greek-style banquet in Broadbeach with an early sitting that suits families and a later one that runs into the night."
+  },
+  {
+    "slug": "tang-court-langham-nye",
+    "name": "The Final Feast at T'ang Court, The Langham",
+    "venue": "T'ang Court, The Langham Gold Coast, 38 Old Burleigh Rd",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "dining",
+      "family"
+    ],
+    "price_from": 179,
+    "price_text": "$179 adult / $90 child (11 and under); + $95 drinks (2025 prices, TBC)",
+    "time": "Seatings from 5:30pm",
+    "includes": [
+      "Eight-course Cantonese menu",
+      "Dim sum and Cantonese barbecue",
+      "Glass on arrival",
+      "Optional premium drinks pairing"
+    ],
+    "fireworks": "8pm & midnight nearby",
+    "age": "All ages",
+    "url": "https://www.langhamhotels.com/en/the-langham/gold-coast/dine/tang-court/",
+    "featured": false,
+    "blurb": "A Cantonese banquet at The Langham, with a child price that makes it one of the few upmarket NYE dinners built for families."
+  },
+  {
+    "slug": "haven-restaurant-mondrian-nye",
+    "name": "Haven Restaurant NYE at Mondrian",
+    "venue": "Haven Restaurant, Mondrian Gold Coast, 3 First Ave",
+    "suburb": "Burleigh Heads",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "dining",
+      "fine-dining",
+      "beachfront"
+    ],
+    "price_from": 550,
+    "price_text": "$550pp (2025 price, TBC)",
+    "time": "8:00pm – 12:30am",
+    "includes": [
+      "Seafood tower with caviar, oysters, prawns and bugs",
+      "Wood-fired Wagyu sirloin",
+      "Bombe Alaska",
+      "4.5-hour premium beverage package",
+      "Live music"
+    ],
+    "fireworks": "No council display at Burleigh in 2025",
+    "age": "18+",
+    "url": "https://mondrianhotels.com/gold-coast/events/new-years-eve-at-mondrian-gold-coast/",
+    "featured": false,
+    "blurb": "The most lavish dinner on the southern Gold Coast: an oceanfront seafood feast with a beverage package that lasts until after midnight."
+  },
+  {
+    "slug": "lito-mondrian-nye",
+    "name": "LiTO NYE Italian Dinner at Mondrian",
+    "venue": "LiTO, Mondrian Gold Coast, 3 First Ave",
+    "suburb": "Burleigh Heads",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "dining",
+      "family",
+      "budget"
+    ],
+    "price_from": 150,
+    "price_text": "Early $150 adult / $75 child; late $250 / $125 (2025 prices, TBC)",
+    "time": "Early 5:30pm – 8:00pm; late 8:30pm – 12:30am",
+    "includes": [
+      "3-course Italian menu",
+      "Live music (early), DJ sets (late)",
+      "Child pricing for ages 2–12",
+      "Drinks on consumption (early sitting)"
+    ],
+    "fireworks": "No council display at Burleigh in 2025",
+    "age": "All ages",
+    "url": "https://mondrianhotels.com/gold-coast/events/new-years-eve-at-mondrian-gold-coast/",
+    "featured": false,
+    "blurb": "An Italian dinner with two sittings: an early family-friendly one and a later one with DJs and a party feel."
+  },
+  {
+    "slug": "rick-shores-nye-by-the-sea",
+    "name": "NYE by the Sea at Rick Shores",
+    "venue": "Rick Shores, 3/43 Goodwin Terrace",
+    "suburb": "Burleigh Heads",
+    "area": "Burleigh Heads & Miami",
+    "categories": [
+      "dining",
+      "fine-dining",
+      "beachfront",
+      "party"
+    ],
+    "price_from": 450,
+    "price_text": "$450pp (2025 price, TBC)",
+    "time": "From 8:30pm",
+    "includes": [
+      "Canapé-style stand-up event",
+      "Signature Rick Shores dishes",
+      "Free-flowing beverages",
+      "DJ sets",
+      "Waves right below the deck"
+    ],
+    "fireworks": "No council display at Burleigh in 2025",
+    "age": "18+",
+    "url": "https://www.rickshores.com.au/",
+    "featured": false,
+    "blurb": "One of the Gold Coast's best-known restaurants turns into a stand-up party on the sand's edge at Burleigh."
+  },
+  {
+    "slug": "intercontinental-sanctuary-cove-nye",
+    "name": "NYE at InterContinental Sanctuary Cove",
+    "venue": "InterContinental Sanctuary Cove Resort, Manor Circle",
+    "suburb": "Hope Island",
+    "area": "Northern Gold Coast",
+    "categories": [
+      "dining",
+      "fine-dining",
+      "family"
+    ],
+    "price_from": 229,
+    "price_text": "Seafood buffet $229pp; six-course degustation $309pp (2025 prices, TBC)",
+    "time": "From 5:30pm",
+    "includes": [
+      "Seafood buffet at Cove Café or degustation at The Fireplace",
+      "Lagoon-side celebration with live DJ (6pm – midnight)",
+      "Jetpack show at 9pm",
+      "Midnight fireworks"
+    ],
+    "fireworks": "Midnight (resort display)",
+    "age": "Check with venue",
+    "url": "https://www.sanctuarycove.intercontinental.com/dining/festive-events/",
+    "featured": false,
+    "blurb": "A resort night out in the northern Gold Coast, with a lagoon-side party, a 9pm jetpack show and fireworks at midnight."
+  },
+  {
+    "slug": "surfers-paradise-nye-fireworks",
+    "name": "Surfers Paradise Foreshore NYE Fireworks",
+    "venue": "Surfers Paradise Beach & Esplanade",
+    "suburb": "Surfers Paradise",
+    "area": "Surfers Paradise",
+    "categories": [
+      "vantage",
+      "free",
+      "family",
+      "beachfront"
+    ],
+    "price_from": 0,
+    "price_text": "Free, no ticket needed",
+    "time": "Fireworks 8:00pm & midnight",
+    "includes": [
+      "Free family fireworks over the ocean at 8pm",
+      "Midnight fireworks to welcome 2027",
+      "Cavill Ave and Orchid Ave pedestrian zones (recent years)",
+      "Restaurants and bars a short walk from the sand",
+      "G:link at Cypress Ave, Cavill Ave and Surfers Paradise stations"
+    ],
+    "fireworks": "8pm & midnight",
+    "age": "All ages",
+    "url": "https://www.goldcoast.qld.gov.au/Council/City-news/New-Years-Eve",
+    "featured": true,
+    "blurb": "The Gold Coast's biggest free NYE gathering: two fireworks shows over the ocean from the beach in front of the Surfers Paradise sign."
+  },
+  {
+    "slug": "kurrawa-park-broadbeach-fireworks",
+    "name": "Kurrawa Park Broadbeach NYE Fireworks",
+    "venue": "Kurrawa Park & beachfront",
+    "suburb": "Broadbeach",
+    "area": "Broadbeach & Mermaid Beach",
+    "categories": [
+      "vantage",
+      "free",
+      "family",
+      "beachfront"
+    ],
+    "price_from": 0,
+    "price_text": "Free, no ticket needed",
+    "time": "Fireworks 8:00pm & midnight",
+    "includes": [
+      "Free 8pm family fireworks",
+      "Midnight fireworks",
+      "Grassy parkland behind the beach",
+      "Broadbeach restaurants nearby",
+      "G:link at Broadbeach North and South"
+    ],
+    "fireworks": "8pm & midnight",
+    "age": "All ages",
+    "url": "https://www.goldcoast.qld.gov.au/Council/City-news/New-Years-Eve",
+    "featured": false,
+    "blurb": "A roomier alternative to Surfers, with parkland to spread out on and both council fireworks shows."
+  },
+  {
+    "slug": "coolangatta-beach-fireworks",
+    "name": "Coolangatta Beach NYE Fireworks",
+    "venue": "Coolangatta Beach, Marine Parade",
+    "suburb": "Coolangatta",
+    "area": "Coolangatta & Kirra",
+    "categories": [
+      "vantage",
+      "free",
+      "family",
+      "beachfront"
+    ],
+    "price_from": 0,
+    "price_text": "Free, no ticket needed",
+    "time": "Fireworks 9:00pm & midnight (QLD time)",
+    "includes": [
+      "Free 9pm fireworks",
+      "Midnight fireworks (Queensland time)",
+      "Marine Parade cafes and pubs nearby",
+      "Relaxed southern-end crowd"
+    ],
+    "fireworks": "9pm & midnight (QLD time)",
+    "age": "All ages",
+    "url": "https://www.goldcoast.qld.gov.au/Council/City-news/New-Years-Eve",
+    "featured": false,
+    "blurb": "The southern Gold Coast's free fireworks. Remember that Tweed Heads, a few streets away in NSW, is an hour ahead."
+  },
+  {
+    "slug": "broadwater-parklands-nye-by-the-sea",
+    "name": "New Year's Eve by the Sea, Broadwater Parklands",
+    "venue": "Broadwater Parklands (The Great Lawn)",
+    "suburb": "Southport",
+    "area": "Southport & Broadwater",
+    "categories": [
+      "vantage",
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free, alcohol-free event",
+    "time": "4:00pm – 8:00pm, fireworks 8:00pm",
+    "includes": [
+      "Two live bands",
+      "Food trucks",
+      "Kids activities: bubbles, face painting, crafts",
+      "8pm fireworks over the Broadwater",
+      "Alcohol-free family event"
+    ],
+    "fireworks": "8pm",
+    "age": "All ages",
+    "url": "https://www.goldcoast.qld.gov.au/Council/City-news/New-Years-Eve",
+    "featured": false,
+    "blurb": "An alcohol-free family afternoon on the Broadwater with bands, food trucks and kids activities, finishing with 8pm fireworks."
+  },
+  {
+    "slug": "paradise-point-nye-fireworks",
+    "name": "Paradise Point NYE Fireworks",
+    "venue": "Paradise Point Parklands",
+    "suburb": "Paradise Point",
+    "area": "Northern Gold Coast",
+    "categories": [
+      "vantage",
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free",
+    "time": "5:00pm – 9:00pm, fireworks 9:00pm",
+    "includes": [
+      "Community entertainment from 5pm",
+      "9pm fireworks over the Broadwater",
+      "Waterfront parkland and cafes"
+    ],
+    "fireworks": "9pm",
+    "age": "All ages",
+    "url": "https://www.whatsongoldcoast.au/All-events/Paradise-Point-New-Years-Eve-Fireworks-1",
+    "featured": false,
+    "blurb": "A local favourite on the northern Broadwater, with entertainment from 5pm and fireworks at 9pm."
+  },
+  {
+    "slug": "coomera-sports-park-nye",
+    "name": "New Year's Eve in Coomera",
+    "venue": "Coomera Sports Park, 53 Beattie Rd",
+    "suburb": "Coomera",
+    "area": "Northern Gold Coast",
+    "categories": [
+      "vantage",
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free",
+    "time": "6:00pm – 8:00pm, fireworks 8:00pm",
+    "includes": [
+      "DJ",
+      "Food trucks",
+      "8pm family fireworks",
+      "Park & Ride from Dreamworld, buses every 10 minutes (5pm – 9:30pm in 2025)"
+    ],
+    "fireworks": "8pm",
+    "age": "All ages",
+    "url": "https://www.whatsongoldcoast.au/All-events/New-Years-Eve-in-Coomera",
+    "featured": false,
+    "blurb": "A free early family celebration in the northern growth suburbs, with a Park & Ride shuttle so you can skip the parking."
+  },
+  {
+    "slug": "nye-by-the-lake-varsity-lakes",
+    "name": "New Year's Eve by the Lake",
+    "venue": "Varsity Lakes waterfront, Lake Orr",
+    "suburb": "Varsity Lakes",
+    "area": "Robina & Varsity Lakes",
+    "categories": [
+      "vantage",
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free",
+    "time": "5:30pm – 8:30pm, fireworks 8:30pm",
+    "includes": [
+      "Live music",
+      "Food trucks",
+      "Kids entertainment",
+      "8:30pm fireworks finale over the lake"
+    ],
+    "fireworks": "8:30pm",
+    "age": "All ages",
+    "url": "https://www.whatsongoldcoast.au/All-events/New-Years-Eve-by-the-Lake",
+    "featured": false,
+    "blurb": "Fireworks reflected in Lake Orr, with live music and food trucks, made for families who want an early night."
+  },
+  {
+    "slug": "robina-town-centre-glitter-glow",
+    "name": "NYE Glitter & Glow Party, Robina Town Centre",
+    "venue": "The Promenade, Robina Town Centre",
+    "suburb": "Robina",
+    "area": "Robina & Varsity Lakes",
+    "categories": [
+      "vantage",
+      "free",
+      "family"
+    ],
+    "price_from": 0,
+    "price_text": "Free (rides may cost extra)",
+    "time": "4:00pm – 8:00pm, fireworks around 8pm (check time)",
+    "includes": [
+      "Carnival rides",
+      "Face painting",
+      "Live music",
+      "Food outlets",
+      "Early evening fireworks"
+    ],
+    "fireworks": "Around 8pm (times have varied)",
+    "age": "All ages",
+    "url": "https://robinatowncentre.qicre.com/promotions/new-years-eve",
+    "featured": false,
+    "blurb": "A shopping-centre family party with carnival rides and an early fireworks show, and plenty of parking nearby."
+  },
+  {
+    "slug": "southport-sharks-nye",
+    "name": "New Year's Eve at Southport Sharks",
+    "venue": "Southport Sharks, Musgrave Ave",
+    "suburb": "Southport",
+    "area": "Southport & Broadwater",
+    "categories": [
+      "vantage",
+      "free",
+      "family",
+      "party"
+    ],
+    "price_from": 0,
+    "price_text": "Free fireworks viewing; seafood buffet and party ticketed (2025, TBC)",
+    "time": "From 5:30pm; fireworks 9:00pm & midnight",
+    "includes": [
+      "Two free fireworks shows over the oval (about 10 and 5 minutes)",
+      "Ticketed all-you-can-eat seafood buffet (2025)",
+      "Live band",
+      "Club bars and dining"
+    ],
+    "fireworks": "9pm & midnight",
+    "age": "All ages",
+    "url": "https://southportsharks.com.au/event/new-years-eve-fireworks/",
+    "featured": false,
+    "blurb": "The Sharks club runs its own 9pm and midnight fireworks over the oval, free to watch, with a ticketed seafood buffet inside."
+  }
+]
